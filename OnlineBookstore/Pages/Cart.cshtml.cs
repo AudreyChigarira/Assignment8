@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using OnlineBookstore.Infrastructure;
 using OnlineBookstore.Models;
 
-namespace OnlineBookstoreZachDaniels.Pages
+namespace OnlineBookstore.Pages
 {
     public class CartModel : PageModel
     {
